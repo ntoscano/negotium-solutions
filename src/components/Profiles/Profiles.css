@@ -1,0 +1,15 @@
+
+.center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+}
+.center .team-member {
+    display: inline-block;
+}
+
+.content{
+    padding-left: 100px;
+    padding-right: 100px;
+}

@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.carousel{
+    max-height:600px;
+}
+
+.main-body{
+}
+
+.bigblock {
+  padding-top: 50px;
+  margin-left: 0px
+}
+
+header {
+  height: 100px;
+}
